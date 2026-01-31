@@ -8,15 +8,16 @@ Participei do _Oracle Next Education_ ,o que me fez acreditar que o aprendizado 
 Hoje desenvolvo meus sistemas com foco em robustez, escalabilidade e um bom desempenho.
 
 Estas são algumas tecnologias as quais tenho boa proeficiência:
-</p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,git,mysql,postgres,mongodb,nodejs,typescript,html,css,docker,maven,idea,linux," />
-  </a>
-</p>
 
-<p>e estes são meus links para contato:</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,git,mysql,postgres,mongodb,nodejs,typescript,html,css,docker,maven,idea,linux)](https://skillicons.dev)
+
+e estes são meus links para contato:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasp.oliveira822@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/is.lucas822/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luoliveiracode)
+
+Fique a vontade!
+
+
+
