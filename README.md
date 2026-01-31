@@ -5,7 +5,7 @@ Atualmente minha rotina é desenvolver aplicações, enquanto estou cursando _An
 
 Participei do _Oracle Next Education_ ,o que me fez acreditar que o aprendizado é a maior ferramenta da humanidade, pois somente através dela construímos portas para tornar nossos sonhos realidade.
 
-Hoje desenvolvo meus sistemas com foco em robustez, escalabilidade e um bom desempenho.
+Hoje desenvolvo meus sistemas com foco em robustez, escalabilidade e bom desempenho.
 
 Estas são algumas tecnologias as quais tenho boa proeficiência:
 
